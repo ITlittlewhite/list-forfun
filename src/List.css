@@ -1,0 +1,9 @@
+.container {
+  height: 30px;
+  overflow: auto;
+}
+
+.item {
+  height: 20px;
+  color: white;
+}
